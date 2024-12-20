@@ -90,4 +90,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/credit+approval) for providing the dataset.
 - [Medium article by Abhinav Saurabh](https://abhinavsaurabh.medium.com/credit-card-approval-system-using-machine-learning-cb27615b23ef) for insights and explanations related to this project.
 
-*Note: Replace placeholder text with actual information as needed.*
